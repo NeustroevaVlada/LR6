@@ -78,3 +78,26 @@
 15. Получила историю операций в форматированном виде.
 
 ![](/forLR6/fin.jpg)
+
+## Лог команд
+
+```
+    $ cd ../LR6/
+    $ git clone https://github.com/NeustroevaVlada/LR6
+    $ git pull
+    $ git branch -l
+    $ git log
+    $ git checkout branch1
+    $ git merge branch1
+    $ git mergetool
+    $ git status
+    $ git add .
+    $ git commit -m "conflicte resolution"
+    $ git commit -m "add TestFile2"
+    $ git commit -m "edit TestFile"
+    $ git commit -m "edit TestFile"
+    $ git reset --hard HEAD~
+    $ git checkout -b report
+    $ git log --pretty="%h %ad %an %s" 
+```
+####

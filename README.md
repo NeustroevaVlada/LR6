@@ -1,10 +1,10 @@
 # LR6
 Лабораторная работа №6
 ### Настройка конфигурации с помощью команды git --global.
-![](C:\forLR6\start.jpg)
+![](forLR6\start.jpg)
 ### Клонирование удалённого репозитория.
-![](C:\forLR6\clone.jpg)
+![](forLR6\clone.jpg)
 ### Изменения репозитория и обновление копии.
-![](C:\forLR6\create.jpg)
+![](forLR6\create.jpg)
 
-![](C:\forLR6\pull.jpg)
+![](forLR6\pull.jpg)
